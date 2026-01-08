@@ -1,0 +1,104 @@
+ESP32 IP: 192.168.1.206
+HTTP POST #1 -> code: 200
+HTTP POST #2 -> code: 200
+HTTP POST #3 -> code: 200
+HTTP POST #4 -> code: 200
+HTTP POST #5 -> code: 200
+DROP HTTP #6
+HTTP POST #7 -> code: 200
+HTTP POST #8 -> code: 200
+DROP HTTP #9
+HTTP POST #10 -> code: 200
+HTTP POST #11 -> code: 200
+HTTP POST #12 -> code: 200
+HTTP POST #13 -> code: 200
+HTTP POST #14 -> code: 200
+HTTP POST #15 -> code: 200
+HTTP POST #16 -> code: 200
+HTTP POST #17 -> code: 200
+HTTP POST #18 -> code: 200
+HTTP POST #19 -> code: 200
+HTTP POST #20 -> code: 200
+HTTP POST #21 -> code: 200
+HTTP POST #22 -> code: 200
+HTTP POST #23 -> code: 200
+HTTP POST #24 -> code: 200
+HTTP POST #25 -> code: 200
+HTTP POST #26 -> code: 200
+HTTP POST #27 -> code: 200
+DROP HTTP #28
+HTTP POST #29 -> code: 200
+HTTP POST #30 -> code: 200
+HTTP POST #31 -> code: 200
+HTTP POST #32 -> code: 200
+DROP HTTP #33
+DROP HTTP #34
+HTTP POST #35 -> code: 200
+HTTP POST #36 -> code: 200
+HTTP POST #37 -> code: 200
+HTTP POST #38 -> code: 200
+HTTP POST #39 -> code: 200
+HTTP POST #40 -> code: 200
+HTTP POST #41 -> code: 200
+HTTP POST #42 -> code: 200
+HTTP POST #43 -> code: 200
+HTTP POST #44 -> code: 200
+HTTP POST #45 -> code: 200
+HTTP POST #46 -> code: 200
+HTTP POST #47 -> code: 200
+HTTP POST #48 -> code: 200
+HTTP POST #49 -> code: 200
+HTTP POST #50 -> code: 200
+HTTP POST #51 -> code: 200
+HTTP POST #52 -> code: 200
+HTTP POST #53 -> code: 200
+HTTP POST #54 -> code: 200
+HTTP POST #55 -> code: 200
+HTTP POST #56 -> code: 200
+DROP HTTP #57
+HTTP POST #58 -> code: 200
+HTTP POST #59 -> code: 200
+HTTP POST #60 -> code: 200
+HTTP POST #61 -> code: 200
+HTTP POST #62 -> code: 200
+HTTP POST #63 -> code: 200
+HTTP POST #64 -> code: 200
+DROP HTTP #65
+HTTP POST #66 -> code: 200
+HTTP POST #67 -> code: 200
+HTTP POST #68 -> code: 200
+HTTP POST #69 -> code: 200
+DROP HTTP #70
+HTTP POST #71 -> code: 200
+HTTP POST #72 -> code: 200
+HTTP POST #73 -> code: 200
+HTTP POST #74 -> code: 200
+HTTP POST #75 -> code: 200
+HTTP POST #76 -> code: 200
+HTTP POST #77 -> code: 200
+HTTP POST #78 -> code: 200
+HTTP POST #79 -> code: 200
+HTTP POST #80 -> code: 200
+HTTP POST #81 -> code: 200
+HTTP POST #82 -> code: 200
+HTTP POST #83 -> code: 200
+HTTP POST #84 -> code: 200
+HTTP POST #85 -> code: 200
+HTTP POST #86 -> code: 200
+HTTP POST #87 -> code: 200
+HTTP POST #88 -> code: 200
+HTTP POST #89 -> code: 200
+HTTP POST #90 -> code: 200
+HTTP POST #91 -> code: 200
+HTTP POST #92 -> code: 200
+HTTP POST #93 -> code: 200
+HTTP POST #94 -> code: 200
+HTTP POST #95 -> code: 200
+HTTP POST #96 -> code: 200
+HTTP POST #97 -> code: 200
+HTTP POST #98 -> code: 200
+HTTP POST #99 -> code: 200
+HTTP POST #100 -> code: 200
+DROP HTTP #101
+HTTP POST #102 -> code: 200
+HTTP POST #103 -> code: 200
